@@ -1,0 +1,3 @@
+﻿  004_print.cpp
+C:\Users\konyang\source\repos\Tutorial\004_print\004_print.cpp(7,12): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  004_print.vcxproj -> C:\Users\konyang\source\repos\Tutorial\x64\Debug\004_print.exe

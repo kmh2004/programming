@@ -1,0 +1,4 @@
+﻿  008_calculate.cpp
+C:\Users\konyang\source\repos\Tutorial\008_calculate\008_calculate.cpp(5,10): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\konyang\source\repos\Tutorial\008_calculate\008_calculate.cpp(5,19): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  008_calculate.vcxproj -> C:\Users\konyang\source\repos\Tutorial\x64\Debug\008_calculate.exe
